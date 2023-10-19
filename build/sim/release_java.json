@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project MAXSwerve for MK4i)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/aidanlynch/Documents/MAXSwerve for MK4i/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "/Users/aidanlynch/Documents/MAXSwerve for MK4i/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/aidanlynch/Documents/MAXSwerve for MK4i/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
